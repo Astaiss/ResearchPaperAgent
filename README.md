@@ -55,7 +55,7 @@ ResearchPaperAgent/
 ## Installation
 
 ```
-pip install -r requirements.txt
+pip install google-adk google-generativeai openai
 ```
 
 ## For Installation Guide
@@ -294,4 +294,4 @@ Output from the endpoint:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE.md).
